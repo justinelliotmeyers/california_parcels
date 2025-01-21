@@ -5,6 +5,7 @@ aburke@alpinecountyca.gov
 straiman@alpinecountyca.gov
 
 Amador County GIS Data Request - https://www.amadorgov.org/departments/planning/gis-and-mapping/public-parcel-viewer
+https://services9.arcgis.com/Z65sx307Hunxj6eq/arcgis/rest/services/Parcel_Public/FeatureServer
 planning@amadorgov.org
 
 Butte County GIS Data Request - https://www.buttecounty.net/506/Geographical-Information-Systems-GIS
