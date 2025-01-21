@@ -1,0 +1,42 @@
+Alameda - https://data.acgov.org/datasets/2b026350b5dd40b18ed7a321fdcdba81_0/explore
+
+Alpine County GIS Data Request - https://www.alpinecountyca.gov/161/Planning-Division
+aburke@alpinecountyca.gov
+straiman@alpinecountyca.gov
+
+Amador County GIS Data Request - https://www.amadorgov.org/departments/planning/gis-and-mapping/public-parcel-viewer
+planning@amadorgov.org
+
+Butte County GIS Data Request - https://www.buttecounty.net/506/Geographical-Information-Systems-GIS
+gissupport@buttecounty.net
+
+Calaveras County GIS Data Request - https://www.calaverasgov.us/Feedback/GIS
+
+Colusa County GIS Data Request - https://www.countyofcolusaca.gov/713/GIS-Download-Library
+colusa.asr@countyofcolusaca.gov
+08/22/2024, update request sent
+
+Contra Costa - https://gis.cccounty.us/Downloads/Assessor/
+https://www.contracosta.ca.gov/1818/GIS
+
+Del Norte - https://www.co.del-norte.ca.us/GIS
+**only two updates per year for open data. Read terms of use. **cannot redistribute arcgis portal data**
+Rachel Sarina (super nice person)
+
+El Dorado County GIS Data Request - ugotnet@edcgov.us
+https://see-eldorado.edcgov.us/ugotnet/
+https://www.eldoradocounty.ca.gov/Land-Use/Planning-and-Building/Planning-Division/Applications-and-Forms/Planning-Information-Request
+
+Fresno - https://datasharing-cofgisonline.hub.arcgis.com/maps/6a21d872eb534259ae0372c8e781c271
+
+notes:
+Alameda - open data
+Alpine  - no data
+Amador - no data
+Butte - no data
+Calaveras - no data
+Colusa - open data
+Contra Costa - open data
+Del Norte - open data
+El Dorado - no data
+Fresno - open data
