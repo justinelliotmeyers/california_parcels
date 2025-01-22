@@ -46,3 +46,10 @@ Day 2:
 Glenn - no data
 Humboldt - open data
 Imperial - no data
+Inyo - open data
+Kern - open data
+Kings - no data
+Lake - open data
+Lassen - no data
+Los Angeles - open data
+Madera - no data
