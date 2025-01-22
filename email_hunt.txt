@@ -41,3 +41,8 @@ Contra Costa - open data
 Del Norte - open data
 El Dorado - no data
 Fresno - open data
+
+Day 2:
+Glenn - no data
+Humboldt - open data
+Imperial - no data
